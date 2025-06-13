@@ -1,0 +1,115 @@
+kode,nama_kode,keterangan_kerusakan,tingkat_kerusakan,tarif_perbaikan,harga_sparepart,lama_perbaikan,garansi
+0,Cleaning Unit / Repasta,Cleaning Laptop,3,120000,0,1,0
+1,Install ulang OS / App,Install Ulang Windows,1,30000,50000,1,0
+8,Service Kerusakan Mayor,Ganti Engsel,4,200000,170000,2,1
+3,Instalasi Storage SSD/ HDD,Ganti SSD,2,70000,130000,1,0
+5,Service Keyboard,Ganti Keyboard,2,70000,50000,1,0
+1,Install ulang OS / App,Install Ulang Windows,1,30000,80000,1,0
+2,Instalasi Ram,Pasang Ram Laptop AIO,2,70000,30000,1,0
+2,Instalasi Ram,Ganti RAM 4gb dan SSD 128gb,1,30000,170000,1,1
+6,Service LCD,Jasa Pasang LCD,3,120000,0,2,0
+9,Service Kerusakan Minor,Ganti Baterai Laptop HP,1,30000,185000,1,1
+6,Service LCD,Ganti Keyboard dan LCD,4,200000,750000,3,1
+3,Instalasi Storage SSD/ HDD,"Ganti SSD 128gb, ram 4gb, CMOS",1,30000,430000,1,1
+1,Install ulang OS / App,Install Ulang win 11,1,30000,70000,1,0
+8,Service Kerusakan Mayor,Laptop lenovo matot + repasta,4,200000,0,3,0
+5,Service Keyboard,Ganti keyboard lenovo ideapad,1,30000,170000,1,1
+5,Service Keyboard,Service Keyboard Laptop Lenovo g40,1,30000,140000,1,1
+4,Instalasi PC,Ganti Motherboard PC,1,30000,440000,1,1
+5,Service Keyboard,Ganti Keyboard Asus a409,1,30000,70000,1,1
+5,Service Keyboard,Ganti keyboard Acer a314,2,70000,170000,1,1
+3,Instalasi Storage SSD/ HDD,Ganti SSD 521gb,1,30000,480000,1,1
+5,Service Keyboard,Ganti keyboard asus a407,1,30000,120000,1,1
+4,Instalasi PC,Service PC Matot,5,500000,0,3,1
+0,Cleaning Unit / Repasta,Repasta Laptop,1,30000,0,1,0
+4,Instalasi PC,Jasa Rakit PC,3,120000,0,1,0
+4,Instalasi PC,Ganti VGA PC 1gb,1,30000,120000,1,0
+2,Instalasi Ram,Jasa pasang RAM Asus TUF,1,30000,10000,1,0
+0,Cleaning Unit / Repasta,Jasa repasta laptop,1,30000,20000,1,0
+9,Service Kerusakan Minor,Jasa ganti baterai laptop hp hs04 300rb + service motherboard dan install ulang laptop,2,70000,450000,1,1
+9,Service Kerusakan Minor,Ganti speaker laptop,2,70000,130000,1,0
+5,Service Keyboard,Ganti keyboard laptop lenovo -14,1,30000,120000,1,1
+2,Instalasi Ram,Ganti RAM 4gb dan SSD 256gb,1,30000,405000,1,1
+3,Instalasi Storage SSD/ HDD,Ganti SSD 256gb + service motherboard+ baterai Asus x555y ,3,120000,780000,1,1
+2,Instalasi Ram,Ganti ram laptop 8gb ,1,30000,280000,1,1
+6,Service LCD,Ganti LCD + baterai hp14s,4,200000,1000000,3,1
+4,Instalasi PC,Ganti Motherboard PC,1,30000,220000,2,1
+4,Instalasi PC,Ganti CPU PC,1,30000,270000,1,0
+7,Unit Mati Total,Service 2 laptop matot,5,500000,30000,3,0
+1,Install ulang OS / App,Install ulang macbook,2,70000,55000,1,0
+9,Service Kerusakan Minor,Ganti Baterai Laptop Asus,1,30000,170000,1,1
+3,Instalasi Storage SSD/ HDD,Ganti Hardisk 500gb Laptop + case,1,30000,300000,1,1
+0,Cleaning Unit / Repasta,Repasta Laptop Acer,1,30000,45000,1,0
+1,Install ulang OS / App,Install ulang laptop Acer hari libur,1,30000,70000,1,0
+7,Unit Mati Total,Service laptop dell blue screen + repasta,3,120000,30000,3,0
+4,Instalasi PC,Ganti Motherboard PC,1,30000,350000,1,1
+5,Service Keyboard,Ganti keyboard laptop lenovo,2,70000,330000,1,1
+7,Unit Mati Total,Service laptop asus matot,4,200000,225000,1,1
+8,Service Kerusakan Mayor,Service motherboard + ganti ram 4gb + tambah ssd 128gb laptop Asus x441m,4,200000,950000,4,0
+7,Unit Mati Total,Service laptop lenovo matot,4,200000,185000,3,1
+5,Service Keyboard,Jasa pasang keyboard laptop,1,30000,0,1,0
+9,Service Kerusakan Minor,Ganti case hardisk laptop,1,30000,45000,1,0
+9,Service Kerusakan Minor,Ganti baterai laptop Acer,1,30000,220000,1,1
+5,Service Keyboard,Ganti keyboard + cleaning + repasta laptop,2,70000,180000,1,1
+3,Instalasi Storage SSD/ HDD,Ganti ssd laptop Asus,1,30000,320000,1,1
+3,Instalasi Storage SSD/ HDD,Ganti hardisk laptop + install ulang,2,70000,330000,1,1
+5,Service Keyboard,Ganti keyboard laptop asus x441,1,30000,120000,1,1
+2,Instalasi Ram,Upgrade ram laptop 4gb,1,30000,170000,1,1
+9,Service Kerusakan Minor,Service speaker laptop ,1,30000,170000,1,0
+5,Service Keyboard,Ganti keyboard laptop asus x441,1,30000,120000,1,1
+0,Cleaning Unit / Repasta,Cleaning Laptop acer nitro 5,1,30000,120000,1,1
+9,Service Kerusakan Minor,Ganti casing laptop acer nitro 5,2,70000,780000,1,0
+7,Unit Mati Total,Service laptop matot asus,4,200000,185000,2,1
+0,Cleaning Unit / Repasta,Install ulang dan service ram laptop asus,1,30000,120000,1,1
+8,Service Kerusakan Mayor,Service vga pc,4,200000,200000,3,1
+3,Instalasi Storage SSD/ HDD,Ganti ssd 256gb laptop,1,30000,340000,1,1
+3,Instalasi Storage SSD/ HDD,Ganti ssd 128gb laptop,1,30000,200000,1,1
+5,Service Keyboard,Service keyboard Laptop asus,1,30000,120000,1,1
+9,Service Kerusakan Minor,Ganti baterai laptop hp,1,30000,70000,1,1
+5,Service Keyboard,Ganti keyboard laptop asus x441,1,30000,150000,1,1
+7,Unit Mati Total,Service laptop hp matot,4,200000,175000,1,1
+8,Service Kerusakan Mayor,Service motherboard + upgrade ram PC + CPU + VGA second,3,120000,1380000,1,1
+1,Install ulang OS / App,Jasa install microsoft office,1,30000,0,1,0
+1,Install ulang OS / App,Install ulang windows 11 + autocad,1,30000,70000,1,0
+5,Service Keyboard,Service keyboard laptop asus x441,1,30000,120000,1,1
+9,Service Kerusakan Minor,Ganti charger laptop acer a314,1,30000,120000,1,1
+9,Service Kerusakan Minor,Ganti baterai axioo,1,30000,420000,1,1
+9,Service Kerusakan Minor,Ganti baterai laptop hp,1,30000,320000,1,1
+1,Install ulang OS / App,Install ulang laptop Asus,1,30000,120000,1,0
+5,Service Keyboard,Ganti keyboard laptop Acer,2,70000,330000,1,1
+9,Service Kerusakan Minor,Diagnosa error laptop,1,30000,0,1,0
+0,Cleaning Unit / Repasta,Repasta laptop,1,30000,20000,1,0
+9,Service Kerusakan Minor,Ganti speaker laptop hp,1,30000,170000,1,1
+5,Service Keyboard,Ganti keyboard + charger laptop asus,1,30000,170000,1,1
+1,Install ulang OS / App,Install ulang + tukar ssd,1,30000,120000,1,0
+7,Unit Mati Total,Service laptop matot sony vaio,4,200000,60000,3,1
+5,Service Keyboard,Service keyboard axioo,2,70000,380000,1,1
+5,Service Keyboard,Service keyboard dan matot laptop asus x441,4,200000,185000,1,1
+9,Service Kerusakan Minor,Ganti charger laptop + install ulang + ganti touchpad,2,70000,200000,1,1
+4,Instalasi PC,Bantu rakit PC,1,30000,0,1,0
+9,Service Kerusakan Minor,Ganti charger laptop acer,1,30000,120000,1,1
+4,Instalasi PC,Rakit PC ,4,200000,0,1,0
+4,Instalasi PC,Install ulang PC,1,30000,70000,1,0
+4,Instalasi PC,Ganti PSU PC,1,30000,370000,1,1
+9,Service Kerusakan Minor,Ganti baterai laptop,1,30000,345000,1,1
+5,Service Keyboard,Pasang keyboard laptop dell,2,70000,0,1,1
+1,Install ulang OS / App,Install ulang + jasa pasang ssd laptop,1,30000,70000,1,0
+3,Instalasi Storage SSD/ HDD,Ganti ssd laptop acer ,1,30000,320000,1,1
+7,Unit Mati Total,Service PC Matot,4,200000,0,1,1
+9,Service Kerusakan Minor,Flash bios + install ulang windows 11,3,120000,130000,1,0
+3,Instalasi Storage SSD/ HDD,Ganti SSD 256gb PC,1,30000,220000,1,1
+8,Service Kerusakan Mayor,Ganti kabel flexsible laptop acer,3,120000,230000,1,1
+6,Service LCD,Ganti lcd laptop lenovo,5,500000,450000,1,1
+3,Instalasi Storage SSD/ HDD,Jasa pasang ssd laptop,1,30000,0,1,0
+9,Service Kerusakan Minor,Ganti charger laptop,1,30000,120000,1,1
+1,Install ulang OS / App,Install ulang laptop windows 11,1,30000,50000,1,0
+5,Service Keyboard,Ganti keyboard laptop acer a314,1,30000,145000,1,1
+9,Service Kerusakan Minor,Ganti engsel laptop gaming,1,30000,155000,1,1
+3,Instalasi Storage SSD/ HDD,Ganti SSD 256gb laptop,1,30000,270000,1,1
+3,Instalasi Storage SSD/ HDD,Ganti ssd 256gb laptop,1,30000,275000,1,1
+5,Service Keyboard,Ganti keyboard laptop,1,30000,120000,1,1
+5,Service Keyboard,Ganti keyboard laptop lenovo,1,30000,155000,1,1
+9,Service Kerusakan Minor,Ganti charger laptop lenovo,1,30000,230000,1,1
+5,Service Keyboard,Ganti keyboard laptop asus a442ur,1,30000,155000,1,1
+3,Instalasi Storage SSD/ HDD,Ganti SSD 128gb + install ulang windows laptop,1,30000,320000,1,1
+3,Instalasi Storage SSD/ HDD,Ganti SSD 128gb + ganti charger laptop,1,30000,355000,1,1
